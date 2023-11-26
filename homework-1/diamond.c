@@ -24,7 +24,7 @@ int main() {
       for (columns = 1; columns <= (2 * input) - 1; columns++) {
 
         if (columns >= input - (rows - 1) && columns <= input + (rows - 1)) {
-          printf("*");
+          printf("%c", letter);
         } else {
           printf(" ");
         }
@@ -37,7 +37,7 @@ int main() {
       for (columns = 1; columns <= (2 * input) - 1; columns++) {
 
         if (columns >= input - (rows - 1) && columns <= input + (rows - 1)) {
-          printf("*");
+          printf("%c", letter);
         } else {
           printf(" ");
         }

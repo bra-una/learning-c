@@ -1,20 +1,17 @@
-Script started on 2023-11-26 14:23:48-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="105" LINES="30"]
-[?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ ./[K[Kgcc -o diamond diamond.c
-[?2004l[?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ ./diamond
-[?2004lEnter number of choice 
+Script started on 2023-11-26 14:49:54-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="105" LINES="30"]
+[?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ ./hollowdiamond[7Pminmaxhollowdiamond[7Pminmaxdiamond
+[?2004lEnter a number of choice 
 5
 Enter a letter of choice 
-x
-    x
-   x x
-  x   x
- x     x
-x       x
- x     x
-  x   x
-   x x
-    x
+B
+    B    
+   BBB   
+  BBBBB  
+ BBBBBBB 
+  BBBBB  
+   BBB   
+    B    
 [?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ [?2004l
 exit
 
-Script done on 2023-11-26 14:24:21-05:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2023-11-26 14:50:12-05:00 [COMMAND_EXIT_CODE="0"]
