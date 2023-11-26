@@ -1,0 +1,19 @@
+Script started on 2023-11-26 14:42:05-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="105" LINES="30"]
+[?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ ./diamo[K[K[K[K[Khollowdiamond
+[?2004lEnter number of choice 
+5
+Enter a letter of choice 
+S
+    S
+   S S
+  S   S
+ S     S
+S       S
+ S     S
+  S   S
+   S S
+    S
+[?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ [?2004l
+exit
+
+Script done on 2023-11-26 14:42:34-05:00 [COMMAND_EXIT_CODE="0"]

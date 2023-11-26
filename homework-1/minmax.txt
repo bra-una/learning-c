@@ -1,0 +1,14 @@
+Script started on 2023-11-26 14:24:59-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="105" LINES="30"]
+[?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ ./minmax
+[?2004lEnter number or enter -1 to finish
+6
+99
+54545
+-876
+-2 1
+Smallest number is -876
+Largest number is 54545
+[?2004h]0;una@DESKTOP-IUINCRL: /mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[01;32muna@DESKTOP-IUINCRL[00m:[01;34m/mnt/c/Users/Una/OneDrive/Desktop/learning-C/homework-1[00m$ [?2004l
+exit
+
+Script done on 2023-11-26 14:25:25-05:00 [COMMAND_EXIT_CODE="0"]
